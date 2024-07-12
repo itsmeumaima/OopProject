@@ -1,0 +1,117 @@
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\Krypton.Toolkit.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\MaterialSkin.dll
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinForms.D7CF0A35.Up2Date
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Login.resources
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Properties.Resources.resources
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Signup.resources
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Dashboard.resources
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Forms.Corrector.resources
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Forms.Simulator.resources
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\OpenCvSharp.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\VSSols\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Forms.ColorDetector.resources
+D:\VSSols\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Forms.Test.resources
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.Dashboard.resources
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.Forms.ColorDetector.resources
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.Forms.Corrector.resources
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.Forms.Simulator.resources
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.Forms.Test.resources
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.Login.resources
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.Properties.Resources.resources
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.Signup.resources
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.dll
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\WinFormsApp3.exe
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\WinFormsApp3.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\Krypton.Toolkit.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\MaterialSkin.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\OpenCvSharp.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VSSols\WinFormsApp3 - Copy\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinForms.D7CF0A35.Up2Date
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\VSSols\WinFormsApp3 - Copy\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\WinFormsApp3.exe
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\WinFormsApp3.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\Krypton.Toolkit.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\MaterialSkin.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\OpenCvSharp.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VSSols\ColorBlindness\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.Dashboard.resources
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.Forms.ColorDetector.resources
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.Forms.Corrector.resources
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.Forms.Simulator.resources
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.Forms.Test.resources
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.Login.resources
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.Properties.Resources.resources
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.Signup.resources
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinForms.D7CF0A35.Up2Date
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.dll
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\VSSols\ColorBlindness\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
